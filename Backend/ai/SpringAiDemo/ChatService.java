@@ -1,4 +1,4 @@
-package com.ai.SpringAiDemo;
+package Backend.ai.SpringAiDemo;
 
 import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.chat.model.ChatResponse;
