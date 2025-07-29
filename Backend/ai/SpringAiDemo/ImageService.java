@@ -1,4 +1,4 @@
-package com.ai.SpringAiDemo;
+package Backend.ai.SpringAiDemo;
 
 import org.springframework.ai.image.ImagePrompt;
 import org.springframework.ai.image.ImageResponse;
