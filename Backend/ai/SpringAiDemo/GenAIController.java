@@ -1,4 +1,4 @@
-package com.ai.SpringAiDemo;
+package Backend.ai.SpringAiDemo;
 
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.ai.image.ImageResponse;
