@@ -1,4 +1,4 @@
-package com.ai.SpringAiDemo;
+package Backend.ai.SpringAiDemo;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
